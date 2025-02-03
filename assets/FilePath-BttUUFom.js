@@ -1,0 +1,1 @@
+import{a,o as n,c as o,f as s,b as c}from"./index-CkXs6POm.js";const p=["innerHTML"],r=a({__name:"FilePath",props:["path"],setup(t){const e=t;return(_,i)=>e.path?(n(),o("span",{key:0,class:"file-path",innerHTML:e.path},null,8,p)):s("",!0)}}),h=c(r,[["__scopeId","data-v-03a99214"]]);export{h as F};
