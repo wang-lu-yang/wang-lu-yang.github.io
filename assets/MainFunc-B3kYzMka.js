@@ -1,4 +1,4 @@
-import{C as l}from"./CodeBlock-DtfkKDq6.js";import{C as r}from"./CodeLine-CGvp6qzU.js";import{T as p}from"./Tips-DvuthLu-.js";import{a as d,H as m,o as g,c as u,j as e,A as n,i as s,h as a,u as T,F as x}from"./index-CkXs6POm.js";const f={class:"overflw-x-auto custom-scrollbar unsolved-code"},E=["innerHTML"],h=d({__name:"MainFunc",emits:["updateOutlineList"],setup(k,{emit:i}){i("updateOutlineList",[{id:"#mainFunc_framework",title:"整体框架"},{id:"#mainFunc_notPlainText",title:"非纯文本元素"},{id:"#mainFunc_parseElement",title:"匹配注释、文档类型、标签"},{id:"#mainFunc_parseText",title:"匹配文本内容"},{id:"#mainFunc_isPlainText",title:"纯文本元素"}]);const o=m.highlight(`if (!isPlainTextElement(stackedTag) && stackedTag !== 'noscript') {
+import{C as l}from"./CodeBlock-CPb5YU8v.js";import{C as r}from"./CodeLine-Oci4BOrS.js";import{T as p}from"./Tips-D03TbBzm.js";import{d,H as m,o as g,b as u,f as e,e as n,g as s,w as a,u as T,F as x}from"./index-CH-gbXXw.js";const f={class:"overflw-x-auto custom-scrollbar unsolved-code"},E=["innerHTML"],M=d({__name:"MainFunc",emits:["updateOutlineList"],setup(k,{emit:i}){i("updateOutlineList",[{id:"#mainFunc_framework",title:"整体框架"},{id:"#mainFunc_notPlainText",title:"非纯文本元素"},{id:"#mainFunc_parseElement",title:"匹配注释、文档类型、标签"},{id:"#mainFunc_parseText",title:"匹配文本内容"},{id:"#mainFunc_isPlainText",title:"纯文本元素"}]);const o=m.highlight(`if (!isPlainTextElement(stackedTag) && stackedTag !== 'noscript') {
   text = text
     .replace(/<!--([sS]*?)-->/g, '$1') // #7298
     .replace(/<![CDATA[([sS]*?)]]>/g, '$1')
@@ -74,4 +74,4 @@ const rest = html.replace(reStackedTag, function (all, text, endTag) {
 index += html.length - rest.length
 html = rest
 parseEndTag(stackedTag, index - endTagLength, index)
-`}),t[28]||(t[28]=e("br",null,null,-1)),s(p,{type:"danger",icon:"QuestionFilled"},{title:a(()=>t[10]||(t[10]=[n("遗留问题")])),default:a(()=>[t[11]||(t[11]=e("div",null,"源码内解析纯文本元素处的这段代码，判断条件似乎永远不会成立？",-1)),e("pre",f,[e("code",{innerHTML:T(o)},null,8,E)])]),_:1})],64))}});export{h as default};
+`}),t[28]||(t[28]=e("br",null,null,-1)),s(p,{type:"danger",icon:"QuestionFilled"},{title:a(()=>t[10]||(t[10]=[n("遗留问题")])),default:a(()=>[t[11]||(t[11]=e("div",null,"源码内解析纯文本元素处的这段代码，判断条件似乎永远不会成立？",-1)),e("pre",f,[e("code",{innerHTML:T(o)},null,8,E)])]),_:1})],64))}});export{M as default};
