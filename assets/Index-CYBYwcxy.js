@@ -1,0 +1,1 @@
+import{a as t,o as n,c as s}from"./index-C1ubzxyW.js";const p=t({__name:"Index",emits:["updateOutlineList"],setup(a,{emit:e}){return e("updateOutlineList",[]),(i,c)=>(n(),s("p",null," test "))}});export{p as default};

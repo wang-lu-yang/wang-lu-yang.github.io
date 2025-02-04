@@ -1,1 +1,0 @@
-import{d as t,o as n,b as s}from"./index-CH-gbXXw.js";const c=t({__name:"Index",emits:["updateOutlineList"],setup(o,{emit:e}){return e("updateOutlineList",[]),(i,m)=>(n(),s("p",null," test "))}});export{c as default};

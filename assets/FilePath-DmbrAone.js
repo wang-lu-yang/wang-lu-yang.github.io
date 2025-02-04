@@ -1,1 +1,0 @@
-import{d as a,o as n,b as o,h as s,_ as p}from"./index-CH-gbXXw.js";const c=["innerHTML"],r=a({__name:"FilePath",props:["path"],setup(t){const e=t;return(_,h)=>e.path?(n(),o("span",{key:0,class:"file-path",innerHTML:e.path},null,8,c)):s("",!0)}}),l=p(r,[["__scopeId","data-v-03a99214"]]);export{l as F};
