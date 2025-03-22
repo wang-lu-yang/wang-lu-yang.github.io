@@ -1,0 +1,1 @@
+import{a,o,c as s,t as p,i as c}from"./index-M27ktbsT.js";import{_ as n}from"./Index-aTzL6mIO.js";const r={key:0,class:"file-path"},_=a({__name:"FilePath",props:["path"],setup(e){const t=e;return(i,m)=>t.path?(o(),s("span",r,p(t.path),1)):c("",!0)}}),f=n(_,[["__scopeId","data-v-c9de92f7"]]);export{f as F};

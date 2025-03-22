@@ -1,4 +1,4 @@
-import{E as s}from"./Emphasize-DU56A6mB.js";import{C as n}from"./CodeBlock-D4l11F0F.js";import{C as r}from"./CodeLine-BfNqZKSv.js";import{C as m}from"./CiteTo-D8xeIkKo.js";import{C as d}from"./Cite-vdwhptxl.js";import{T as u}from"./Tips-CPGXbHE2.js";import{r as i}from"./Index-DUed_7Vs.js";import{a as g,o as v,c as f,h as e,A as l,g as o,f as S,u as p,F as y}from"./index-CGPLEEhy.js";const T=`<!-- Child.vue -->
+import{E as s}from"./Emphasize-BF1FRwGX.js";import{C as n}from"./CodeBlock-BeUO-N7C.js";import{C as r}from"./CodeLine-BM18u3Y-.js";import{C as m}from"./CiteTo-BmA_DGa6.js";import{C as d}from"./Cite-BIYFNzwB.js";import{T as u}from"./Tips-DNPYZNz3.js";import{r as i}from"./Index-aTzL6mIO.js";import{a as g,o as v,c as f,h as e,A as l,g as o,f as S,u as p,F as y}from"./index-M27ktbsT.js";const T=`<!-- Child.vue -->
 <button>
   <slot name="slotName" :attr="value">
     default content
