@@ -1,0 +1,1 @@
+import{a as t,o as a,c as o,t as p,n}from"./index-CRiPQp-p.js";import{_ as c}from"./Index-B4TVYXub.js";const r=t({__name:"Emphasize",props:["text","type"],setup(e){const s=e;return(m,i)=>(a(),o("span",{class:n(["emphasize",e.type])},p(s.text),3))}}),f=c(r,[["__scopeId","data-v-d0e1534c"]]);export{f as E};

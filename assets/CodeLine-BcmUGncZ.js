@@ -1,0 +1,1 @@
+import{a as s,o as t,c,t as a}from"./index-CRiPQp-p.js";import{_ as n}from"./Index-B4TVYXub.js";const d={class:"code-line"},r=s({__name:"CodeLine",props:["code"],setup(o){const e=o;return(p,_)=>(t(),c("code",d,a(e.code),1))}}),l=n(r,[["__scopeId","data-v-dddad7ab"]]);export{l as C};
